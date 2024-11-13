@@ -18,7 +18,7 @@ public:
             if(d<=i){
                 break;
             }
-            ans=ans+(d-p);
+            ans=ans+(d-max(i,p));
             i++;
         }
         return ans;
