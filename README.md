@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0001-two-sum) |
 | [1364-tuple-with-same-product](https://github.com/cf-gf-lc/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/cf-gf-lc/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Binary Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/cf-gf-lc/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3447-clear-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/cf-gf-lc/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/cf-gf-lc/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
