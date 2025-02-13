@@ -31,11 +31,13 @@ int count_set_bit(int n){
         else{
             int i=v2-v1;
             int j=0;
-            for (int j = 0; j < 32 &&  i > 0; j++) {
-                if ((num1 & (1 << j)) == 0) {
-                    num1 |= (1 << j);
+            while(i){
+                if((num1&(1<<j))==0){
+                    num1=num1|(1<<j);
                     i--;
                 }
+                j++;
+                cout<<i;
             }
             return num1;
         }
