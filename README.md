@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0001-two-sum) |
 | [1364-tuple-with-same-product](https://github.com/cf-gf-lc/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/cf-gf-lc/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Binary Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2509-minimize-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cf-gf-lc/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3427-special-array-ii) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/cf-gf-lc/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/3447-clear-digits) |
