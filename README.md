@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/cf-gf-lc/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/cf-gf-lc/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3447-clear-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/3447-clear-digits) |
 ## Counting
 |  |
