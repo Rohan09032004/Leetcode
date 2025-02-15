@@ -27,7 +27,7 @@ void count(){
     }
 }
     int punishmentNumber(int n) {
-        count();
+         if (req.empty())count();
         int ans=0;
         for(int i=1;i<=n;i++){
             if(req[i]==1){
