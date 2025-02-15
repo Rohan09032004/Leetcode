@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cf-gf-lc/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/cf-gf-lc/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/cf-gf-lc/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3447-clear-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/3447-clear-digits) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/cf-gf-lc/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -174,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/cf-gf-lc/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/cf-gf-lc/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/cf-gf-lc/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/cf-gf-lc/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String Matching
 |  |
 | ------- |
