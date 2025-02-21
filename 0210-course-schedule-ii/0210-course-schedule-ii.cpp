@@ -31,7 +31,7 @@ public:
         }
         for(int i=0;i<numCourses;i++){
             if(degree[i]>0){
-                return { };
+                return {};
             }
         }
         reverse(ans.begin(),ans.end());
