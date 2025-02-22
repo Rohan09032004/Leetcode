@@ -16,21 +16,22 @@ public:
         for(int i=0;i<=n;i++){
             if(degree[i]==0 && i!=0){
                 q.push(i);
-                cost[i]=time[i-1];
             }
         }
-        int totaltime=0;
         while(!q.empty()){
             int node=q.front();
             q.pop();
-            totaltime=max(totaltime,cost[node]);
             for(int i=0;i<roya[node].size();i++){
-                cost[roya[node][i]] = max(cost[roya[node][i]], cost[node] + time[roya[node][i] - 1]);
+                cost[roya[node][i]] = max(cost[roya[node][i]], cost[node] + time[node - 1]);
                 degree[roya[node][i]]--;
                 if(degree[roya[node][i]]==0){
                     q.push(roya[node][i]);
                 }
             }
+        }
+        int totaltime=0;
+        for(int i=1;i<=n;i++){
+            totaltime=max(totaltime,cost[i]+time[i-1]);
         }
         return totaltime;
     }
