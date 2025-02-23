@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/cf-gf-lc/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/cf-gf-lc/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/cf-gf-lc/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1558-course-schedule-iv](https://github.com/cf-gf-lc/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/cf-gf-lc/Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Matrix
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/cf-gf-lc/Leetcode/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/cf-gf-lc/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1558-course-schedule-iv](https://github.com/cf-gf-lc/Leetcode/tree/master/1558-course-schedule-iv) |
 ## Union Find
 |  |
 | ------- |
@@ -271,11 +273,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/cf-gf-lc/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/0210-course-schedule-ii) |
+| [1558-course-schedule-iv](https://github.com/cf-gf-lc/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/cf-gf-lc/Leetcode/tree/master/2176-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/cf-gf-lc/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/0210-course-schedule-ii) |
+| [1558-course-schedule-iv](https://github.com/cf-gf-lc/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/cf-gf-lc/Leetcode/tree/master/2176-parallel-courses-iii) |
 <!---LeetCode Topics End-->
