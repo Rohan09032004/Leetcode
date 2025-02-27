@@ -8,7 +8,8 @@ int solve(int n,int mid,vector<int>& weights){
             sum+=weights[i];
         }
         else{
-            sum=weights[i];
+            i--;
+            sum=0;
             days++;
         }
     }
