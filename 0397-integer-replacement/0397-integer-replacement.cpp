@@ -1,10 +1,7 @@
 class Solution {
 public:
-    int integerReplacement(int n) {
+    int integerReplacement(long long int n) {
         int count=0;
-        if(n==INT_MAX){
-            return 32;
-        }
     while(n>1){
            if(n%2==0){
             n=n/2;
