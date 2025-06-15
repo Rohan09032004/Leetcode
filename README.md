@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/cf-gf-lc/Leetcode/tree/master/0397-integer-replacement) |
 | [1940-maximum-xor-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2509-minimize-xor) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/cf-gf-lc/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0343-integer-break](https://github.com/cf-gf-lc/Leetcode/tree/master/0343-integer-break) |
+| [0397-integer-replacement](https://github.com/cf-gf-lc/Leetcode/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/cf-gf-lc/Leetcode/tree/master/0542-01-matrix) |
 | [2164-two-best-non-overlapping-events](https://github.com/cf-gf-lc/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/cf-gf-lc/Leetcode/tree/master/2176-parallel-courses-iii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/cf-gf-lc/Leetcode/tree/master/0397-integer-replacement) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cf-gf-lc/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/0210-course-schedule-ii) |
 | [1558-course-schedule-iv](https://github.com/cf-gf-lc/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/cf-gf-lc/Leetcode/tree/master/2176-parallel-courses-iii) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/cf-gf-lc/Leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
