@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/cf-gf-lc/Leetcode/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/cf-gf-lc/Leetcode/tree/master/0179-largest-number) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
+| [0523-continuous-subarray-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/cf-gf-lc/Leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/cf-gf-lc/Leetcode/tree/master/0733-flood-fill) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0001-two-sum) |
+| [0523-continuous-subarray-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1364-tuple-with-same-product](https://github.com/cf-gf-lc/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cf-gf-lc/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/cf-gf-lc/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cf-gf-lc/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/cf-gf-lc/Leetcode/tree/master/0043-multiply-strings) |
 | [0343-integer-break](https://github.com/cf-gf-lc/Leetcode/tree/master/0343-integer-break) |
+| [0523-continuous-subarray-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/cf-gf-lc/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2716-prime-subtraction-operation) |
