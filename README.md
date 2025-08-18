@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/cf-gf-lc/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/cf-gf-lc/Leetcode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3790-fruits-into-baskets-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/cf-gf-lc/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/cf-gf-lc/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/cf-gf-lc/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String
 |  |
 | ------- |
