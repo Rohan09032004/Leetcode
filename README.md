@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/cf-gf-lc/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cf-gf-lc/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2689-rearranging-fruits](https://github.com/cf-gf-lc/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cf-gf-lc/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2689-rearranging-fruits](https://github.com/cf-gf-lc/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/cf-gf-lc/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cf-gf-lc/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2689-rearranging-fruits](https://github.com/cf-gf-lc/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2509-minimize-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cf-gf-lc/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2689-rearranging-fruits](https://github.com/cf-gf-lc/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/cf-gf-lc/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## String
