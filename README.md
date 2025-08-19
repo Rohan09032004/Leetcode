@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/cf-gf-lc/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/cf-gf-lc/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/cf-gf-lc/Leetcode/tree/master/0343-integer-break) |
 | [0523-continuous-subarray-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0900-reordered-power-of-2](https://github.com/cf-gf-lc/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/cf-gf-lc/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2716-prime-subtraction-operation) |
