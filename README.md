@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/cf-gf-lc/Leetcode/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/cf-gf-lc/Leetcode/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/cf-gf-lc/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0413-arithmetic-slices](https://github.com/cf-gf-lc/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/cf-gf-lc/Leetcode/tree/master/0542-01-matrix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/cf-gf-lc/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cf-gf-lc/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/cf-gf-lc/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/cf-gf-lc/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0343-integer-break](https://github.com/cf-gf-lc/Leetcode/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/cf-gf-lc/Leetcode/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/cf-gf-lc/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/cf-gf-lc/Leetcode/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/cf-gf-lc/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
