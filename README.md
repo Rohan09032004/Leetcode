@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/cf-gf-lc/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cf-gf-lc/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1752-arithmetic-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1876-map-of-highest-peak](https://github.com/cf-gf-lc/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/cf-gf-lc/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/cf-gf-lc/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1364-tuple-with-same-product](https://github.com/cf-gf-lc/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cf-gf-lc/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1752-arithmetic-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/cf-gf-lc/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cf-gf-lc/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/cf-gf-lc/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cf-gf-lc/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/cf-gf-lc/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1752-arithmetic-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/cf-gf-lc/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
