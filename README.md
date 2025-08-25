@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/cf-gf-lc/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/cf-gf-lc/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/cf-gf-lc/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cf-gf-lc/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2478-longest-nice-subarray](https://github.com/cf-gf-lc/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/cf-gf-lc/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2509-minimize-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cf-gf-lc/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/cf-gf-lc/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/cf-gf-lc/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2478-longest-nice-subarray](https://github.com/cf-gf-lc/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/cf-gf-lc/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
