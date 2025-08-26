@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/cf-gf-lc/Leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/cf-gf-lc/Leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/cf-gf-lc/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cf-gf-lc/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/cf-gf-lc/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/cf-gf-lc/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/cf-gf-lc/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/cf-gf-lc/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cf-gf-lc/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/cf-gf-lc/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/cf-gf-lc/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/cf-gf-lc/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cf-gf-lc/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
