@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2792-neighboring-bitwise-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/cf-gf-lc/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/cf-gf-lc/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cf-gf-lc/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/cf-gf-lc/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/cf-gf-lc/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/cf-gf-lc/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/cf-gf-lc/Leetcode/tree/master/3760-assign-elements-to-groups-with-constraints) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cf-gf-lc/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/cf-gf-lc/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/cf-gf-lc/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/cf-gf-lc/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String
