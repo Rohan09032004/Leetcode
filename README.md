@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2792-neighboring-bitwise-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/cf-gf-lc/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3427-special-array-ii) |
