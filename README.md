@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/cf-gf-lc/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/cf-gf-lc/Leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/cf-gf-lc/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/cf-gf-lc/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/cf-gf-lc/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/cf-gf-lc/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/cf-gf-lc/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/cf-gf-lc/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
