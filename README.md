@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/cf-gf-lc/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0084-largest-rectangle-in-histogram](https://github.com/cf-gf-lc/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/cf-gf-lc/Leetcode/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/cf-gf-lc/Leetcode/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/cf-gf-lc/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/cf-gf-lc/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/cf-gf-lc/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/cf-gf-lc/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/cf-gf-lc/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/cf-gf-lc/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0496-next-greater-element-i) |
