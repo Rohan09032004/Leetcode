@@ -6,7 +6,7 @@ public:
         vector<long int>ansl(n,-1),ansr(n,n);
         long long int ans=0;
         for(long long int i=n-1;i>=0;i--){
-            while(!st1.empty()  &&  heights[i]<st1.top().first){
+            while(!st1.empty()  &&  heights[i]<=st1.top().first){
                 st1.pop();
             }
             if(!st1.empty()){
