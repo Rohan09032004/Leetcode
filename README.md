@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/cf-gf-lc/Leetcode/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/cf-gf-lc/Leetcode/tree/master/0179-largest-number) |
+| [0221-maximal-square](https://github.com/cf-gf-lc/Leetcode/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/cf-gf-lc/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0413-arithmetic-slices](https://github.com/cf-gf-lc/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/cf-gf-lc/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/cf-gf-lc/Leetcode/tree/master/0221-maximal-square) |
 | [0343-integer-break](https://github.com/cf-gf-lc/Leetcode/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/cf-gf-lc/Leetcode/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/cf-gf-lc/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/cf-gf-lc/Leetcode/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/cf-gf-lc/Leetcode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/cf-gf-lc/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/cf-gf-lc/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/cf-gf-lc/Leetcode/tree/master/1036-rotting-oranges) |
