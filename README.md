@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/cf-gf-lc/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/cf-gf-lc/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1985-maximum-subarray-min-product](https://github.com/cf-gf-lc/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2164-two-best-non-overlapping-events](https://github.com/cf-gf-lc/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/cf-gf-lc/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cf-gf-lc/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1985-maximum-subarray-min-product](https://github.com/cf-gf-lc/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/cf-gf-lc/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/cf-gf-lc/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cf-gf-lc/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/cf-gf-lc/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1985-maximum-subarray-min-product](https://github.com/cf-gf-lc/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2227-sum-of-subarray-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/cf-gf-lc/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cf-gf-lc/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1985-maximum-subarray-min-product](https://github.com/cf-gf-lc/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2227-sum-of-subarray-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Ordered Set
 |  |
