@@ -25,7 +25,6 @@ public:
         }
         for(long long int i=0;i<n;i++){
             long long int currar=(heights[i]*((ansr[i]-i)+(i-ansl[i])-1));
-            cout<<(i-ansl[i])<<" "<<(ansr[i]-i)<<endl;
             ans=max(currar,ans);
         }
         return ans;
