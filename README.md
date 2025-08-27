@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/cf-gf-lc/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cf-gf-lc/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/cf-gf-lc/Leetcode/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/cf-gf-lc/Leetcode/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/cf-gf-lc/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/cf-gf-lc/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0343-integer-break](https://github.com/cf-gf-lc/Leetcode/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/cf-gf-lc/Leetcode/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/cf-gf-lc/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/cf-gf-lc/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cf-gf-lc/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/cf-gf-lc/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/cf-gf-lc/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/cf-gf-lc/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/cf-gf-lc/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cf-gf-lc/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/cf-gf-lc/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/cf-gf-lc/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/cf-gf-lc/Leetcode/tree/master/0733-flood-fill) |
