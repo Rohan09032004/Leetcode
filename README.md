@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/cf-gf-lc/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/cf-gf-lc/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2227-sum-of-subarray-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/cf-gf-lc/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/cf-gf-lc/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cf-gf-lc/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/cf-gf-lc/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2227-sum-of-subarray-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/cf-gf-lc/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cf-gf-lc/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2227-sum-of-subarray-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Ordered Set
 |  |
 | ------- |
