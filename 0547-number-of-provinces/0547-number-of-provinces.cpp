@@ -7,7 +7,6 @@ void dfs(int nodel, vector<bool>&visit,vector<vector<int>>&adjl){
             dfs(adjl[nodel][i],visit,adjl);
         }
     }
-    return;
 }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n=isConnected.size();
