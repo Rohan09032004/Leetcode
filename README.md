@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/cf-gf-lc/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/cf-gf-lc/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/cf-gf-lc/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cf-gf-lc/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/cf-gf-lc/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/cf-gf-lc/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cf-gf-lc/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cf-gf-lc/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/cf-gf-lc/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cf-gf-lc/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/cf-gf-lc/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/cf-gf-lc/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/cf-gf-lc/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3483-alternating-groups-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3483-alternating-groups-ii) |
