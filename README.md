@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/cf-gf-lc/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/cf-gf-lc/Leetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/cf-gf-lc/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/cf-gf-lc/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String Matching
