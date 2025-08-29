@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/cf-gf-lc/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/cf-gf-lc/Leetcode/tree/master/3760-assign-elements-to-groups-with-constraints) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/cf-gf-lc/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
