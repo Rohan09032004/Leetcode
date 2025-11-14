@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/cf-gf-lc/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/cf-gf-lc/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2465-shifting-letters-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2571-find-the-pivot-integer](https://github.com/cf-gf-lc/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/cf-gf-lc/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/cf-gf-lc/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3427-special-array-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/cf-gf-lc/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2571-find-the-pivot-integer](https://github.com/cf-gf-lc/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/cf-gf-lc/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/cf-gf-lc/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/cf-gf-lc/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
