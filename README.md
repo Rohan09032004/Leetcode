@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2509-minimize-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/cf-gf-lc/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/cf-gf-lc/Leetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/cf-gf-lc/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cf-gf-lc/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/cf-gf-lc/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/cf-gf-lc/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String Matching
 |  |
