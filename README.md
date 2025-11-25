@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0900-reordered-power-of-2](https://github.com/cf-gf-lc/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/cf-gf-lc/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/cf-gf-lc/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/cf-gf-lc/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cf-gf-lc/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1752-arithmetic-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/1752-arithmetic-subarrays) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0856-consecutive-numbers-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/cf-gf-lc/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/cf-gf-lc/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/cf-gf-lc/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/cf-gf-lc/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
