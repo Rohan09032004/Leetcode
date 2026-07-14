@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/cf-gf-lc/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/cf-gf-lc/Leetcode/tree/master/0397-integer-replacement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/cf-gf-lc/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1940-maximum-xor-for-each-query](https://github.com/cf-gf-lc/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cf-gf-lc/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/cf-gf-lc/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/cf-gf-lc/Leetcode/tree/master/0043-multiply-strings) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/cf-gf-lc/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/cf-gf-lc/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/cf-gf-lc/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/cf-gf-lc/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/cf-gf-lc/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/cf-gf-lc/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/cf-gf-lc/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/cf-gf-lc/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/cf-gf-lc/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/cf-gf-lc/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/cf-gf-lc/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
