@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/cf-gf-lc/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/cf-gf-lc/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/cf-gf-lc/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/cf-gf-lc/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/cf-gf-lc/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/cf-gf-lc/Leetcode/tree/master/3427-special-array-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2509-minimize-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/cf-gf-lc/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cf-gf-lc/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/cf-gf-lc/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/cf-gf-lc/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/cf-gf-lc/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/cf-gf-lc/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/cf-gf-lc/Leetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/cf-gf-lc/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 ## Segment Tree
 |  |
 | ------- |
